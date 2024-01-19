@@ -17,6 +17,8 @@ const tours = [
     city: "Lakshadweep",
     distance: 300,
     price: 39375,
+    address: "Somewhere",
+    packages: "3 Nights/4 days",
     maxGroupSize: 10,
     desc: "this is the description",
     reviews: [],
@@ -30,6 +32,8 @@ const tours = [
     city: "Lakshadweep",
     distance: 400,
     price: 68082,
+    address: "Somewhere",
+    packages: "3 Nights/4 days",
     maxGroupSize: 8,
     desc: "this is the description",
     reviews: [
@@ -48,6 +52,8 @@ const tours = [
     city: "Lakshadweep",
     distance: 500,
     price: 40887,
+    address: "Somewhere",
+    packages: "3 Nights/4 days",
     maxGroupSize: 8,
     desc: "this is the description",
     reviews: [
@@ -66,6 +72,8 @@ const tours = [
     city: "Maldives",
     distance: 500,
     price: 52070,
+    address: "Somewhere",
+    packages: "3 Nights/4 days",
     maxGroupSize: 8,
     desc: "this is the description",
     reviews: [
@@ -84,6 +92,8 @@ const tours = [
     city: "Maldives",
     distance: 500,
     price: 45920,
+    address: "Somewhere",
+    packages: "3 Nights/4 days",
     maxGroupSize: 8,
     desc: "this is the description",
     reviews: [
@@ -102,6 +112,8 @@ const tours = [
     city: "Maldives",
     distance: 500,
     price: 93480,
+    address: "Somewhere",
+    packages: "3 Nights/4 days",
     maxGroupSize: 8,
     desc: "this is the description",
     reviews: [
@@ -120,6 +132,8 @@ const tours = [
     city: "Maldives",
     distance: 500,
     price: 164000,
+    address: "Somewhere",
+    packages: "3 Nights/4 days",
     maxGroupSize: 8,
     desc: "this is the description",
     reviews: [
@@ -138,9 +152,15 @@ const tours = [
     city: "Maldives",
     distance: 500,
     price: 50594,
+    address: "Somewhere",
+    packages: "3 Nights/4 days",
     maxGroupSize: 8,
     desc: "this is the description",
     reviews: [
+      {
+        name: "jhon doe",
+        rating: 4.6,
+      },
       {
         name: "jhon doe",
         rating: 4.6,
@@ -156,6 +176,8 @@ const tours = [
     city: "Maldives",
     distance: 500,
     price: 58220,
+    address: "Somewhere",
+    packages: "3 Nights/4 days",
     maxGroupSize: 8,
     desc: "this is the description",
     reviews: [
@@ -174,6 +196,8 @@ const tours = [
     city: "Maldives",
     distance: 500,
     price: 58220,
+    address: "Somewhere",
+    packages: "3 Nights/4 days",
     maxGroupSize: 8,
     desc: "this is the description",
     reviews: [
@@ -192,6 +216,8 @@ const tours = [
     city: "Maldives",
     distance: 500,
     price: 76014,
+    address: "Somewhere",
+    packages: "3 Nights/4 days",
     maxGroupSize: 8,
     desc: "this is the description",
     reviews: [
